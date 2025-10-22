@@ -1,16 +1,22 @@
 .proj4{
+    justify-content:center;
     background-color: #888;
     width: 100%;
-    color:white;
 }
 .wrapper{
     display:flex;
     justify-content:center;
     align-items:center;
     flex-direction:column;
+    color:white;
     gap:20px;
     margin-top:50px;
 }
+h1{
+   justify-content: center;
+   margin-left: 300px;
+   align-items:center;
+} 
 p{
     font-size:20px;
     font-weight:500;
@@ -74,4 +80,5 @@ label {
 .resultParas p{
     font-size:20px;
     font-weight:500;
+
 }
