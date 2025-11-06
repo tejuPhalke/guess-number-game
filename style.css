@@ -1,6 +1,7 @@
 .proj4{
     justify-content:center;
     background-color: #888;
+    padding: 100px;
     width: 100%;
 }
 .wrapper{
@@ -82,3 +83,4 @@ label {
     font-weight:500;
 
 }
+
